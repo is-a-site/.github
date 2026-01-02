@@ -1,5 +1,3 @@
-# is-a.site | Free Subdomains for Developers
-
 ![Banner](https://raw.githubusercontent.com/is-a-site/.github/main/media/is-a-site.png)
 
 ## What is is-a.site?
@@ -18,8 +16,4 @@
 ## Get Started
 Ready to claim your unique address? Head over to our GitHub repository to register your own subdomain today!
 
-**[Visit the GitHub Repository](https://github.com/is-a-dev/register)**
-
----
-
-Would you like me to add a **"Status"** section or a link to your **Discord** community?
+**[Get Started using is-a.site](https://github.com/is-a-site/register)**
