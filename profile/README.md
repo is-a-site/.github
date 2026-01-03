@@ -5,14 +5,6 @@
 
 ---
 
-## Why Choose Us?
-* **Always Free:** No registration fees, no renewal costs, no catches.
-* **Versatile DNS:** Full support for A, AAAA, CNAME, MX, and TXT records.
-* **Git-Powered:** Manage your domain configuration through a seamless GitHub workflow.
-* **Global Reach:** Fast propagation powered by automated CI/CD pipelines.
-
----
-
 ## Get Started
 Ready to claim your unique address? Head over to our GitHub repository to register your own subdomain today!
 
